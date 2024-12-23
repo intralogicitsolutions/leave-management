@@ -1,0 +1,7 @@
+{
+  "name": "Intra Leave App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
